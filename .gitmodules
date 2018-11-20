@@ -1,0 +1,9 @@
+[submodule "libs/bgfx.cmake"]
+	path = libs/bgfx.cmake
+	url = https://github.com/JoshuaBrookover/bgfx.cmake.git
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "libs/entt"]
+	path = libs/entt
+	url = https://github.com/skypjack/entt.git
